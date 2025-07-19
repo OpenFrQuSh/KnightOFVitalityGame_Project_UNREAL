@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="[./demo.gif](https://github.com/user-attachments/assets/b9bdf7b1-d78c-4b87-a03f-ffb0474c9397)" alt="演示" width="400" />
+  <img src="./README_QuotedAssetes/demo.gif)" alt="演示" width="400" />
   <br>
   <b>演示效果</b>
 </p>
