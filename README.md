@@ -8,5 +8,5 @@
   <b>演示效果</b>
 </p>
 
-
+[下载游戏(Output.7z)](https://github.com/OpenFrQuSh/KnightOFVitalityGame_Project_UNREAL/releases/tag/shipping)
 
