@@ -12,3 +12,5 @@
 立刻前往➠[下载游戏(Output.7z)](https://github.com/OpenFrQuSh/KnightOFVitalityGame_Project_UNREAL/releases/tag/shipping)
 
 ⚠️: 请下载下面的 Output.7z（而不是 Source code.zip，或者Source code.tar.gz）
+
+.iss是Inno Setup打包脚本，可以参考参考
