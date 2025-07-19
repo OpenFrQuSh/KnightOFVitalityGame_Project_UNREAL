@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="README_QuotedAssetes/demo.gif)" alt="演示" width="400" />
+  <img src="README_QuotedAssetes/demo.gif" alt="演示" width="400" />
   <br>
   <b>演示效果</b>
 </p>
